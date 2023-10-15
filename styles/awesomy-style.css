@@ -1,0 +1,52 @@
+.awesome{
+    width: 100%;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.container__separator{
+    width: 170px;
+    border: 1px solid #EC7979;
+    margin:0 auto;
+    margin-bottom: 40px;
+    text-align:center;
+
+}
+.container__title{
+    text-align: center;
+    font-family:'Raleway', sans-serif;
+    font-size: 36px;
+    margin-bottom: 57px;
+    font-weight: 100;
+}
+.container__subtitle{
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+}
+.awesome-blocks{
+    width: 100%;
+}
+.awesome-item{
+    display: inline-block;
+    width: 370px;
+
+}
+.awesome-item__title{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 24px;
+    width: 369px;
+    
+}
+.awesome-item__description{
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    width: 370px;
+}
+.awesome-item__image{
+    display: block;
+    margin: 0 auto;
+}
