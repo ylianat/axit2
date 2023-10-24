@@ -4,7 +4,7 @@
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url();
+    url(../images/image.png);
   height: 442px;
   position: relative;
 }
