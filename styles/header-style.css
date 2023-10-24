@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main-block {
+  height: 75px;
+  background: #000;
+  padding-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
+.main-block_img {
+  margin-right: 115px;
+  position: relative;
+  left: 115px;
+}
+.main-button {
+  position: relative;
+  top: 30px;
+}
+.main-button_title {
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans" sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-decoration: none;
+}
