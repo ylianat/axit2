@@ -1,0 +1,61 @@
+.design {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url();
+  height: 442px;
+  position: relative;
+}
+.design-block {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.design-block_title {
+  text-align: center;
+  font-family: Raleway;
+  font-size: 36px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  top: -383px;
+  left: 0;
+  width: 100%;
+  color: white;
+}
+.design-block__separator {
+  width: 170px;
+  height: 1px;
+  position: absolute;
+  left: 0;
+  top: 200px;
+  color: red;
+}
+.design-block__subtitle {
+  color: #fff;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  top: -270px;
+  right: 340px;
+}
+.design-block_button {
+  display: flex;
+  width: 370px;
+  height: 58px;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin: 0 auto;
+  margin-top: -165px;
+  background: none;
+}
