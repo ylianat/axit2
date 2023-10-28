@@ -1,0 +1,26 @@
+.footer-blok {
+  height: 164px;
+  background-color: #000;
+  width: 100%;
+}
+.footer-blok {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer-blok_axure {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 118px;
+  margin-left: -369px;
+}
+.footer-blok_link_img {
+  width: 53.2px;
+  height: 53.2px;
+  margin-top: 35px;
+  margin-left: 32px;
+}
