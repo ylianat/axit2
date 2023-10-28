@@ -29,6 +29,7 @@
   background: #ec7979;
   margin: 0 auto;
   margin-bottom: 40px;
+  margin-top: -34px;
 }
 .container-customers__subtitle {
   width: 1169px;
@@ -42,7 +43,7 @@
 .customers-blocks {
   display: flex;
   flex-direction: row;
-  padding-top: 83px;
+  padding-top: 30px;
 }
 
 .customers-item__title {
@@ -76,6 +77,7 @@
 .customers-blocks {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 56px;
 }
 .customers-managers_content {
   display: flex;
